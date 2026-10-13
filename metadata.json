@@ -1,0 +1,6 @@
+{
+  "name": "Career & Skill-Gap Navigator",
+  "description": "Intelligent career guidance and skill gap analysis platform for university students transitioning into industry tech roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
